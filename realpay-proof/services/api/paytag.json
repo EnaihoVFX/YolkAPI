@@ -1,0 +1,10 @@
+{
+  "ok": true,
+  "tid": "01K8EWEYJEG4QGEJ6W7K4TBMFD",
+  "typ": "pay",
+  "exp": 1761439803,
+  "url": "https://example.com/t/01K8EWEYJEG4QGEJ6W7K4TBMFD",
+  "amt": 12,
+  "sig": "29XrJY9H7Nt1gZcRWxj8FYfcF9H2eL4PEBA1jjLbRqLNVvZ9R9ZsFuFhM4fmN3iS1SUDjFBRFj1pqeWvhNECDGzF",
+  "pk": "CnJN63gtXBzRU31MDSVFkgHDMtVGCrMyKMxpp9pSuXKd"
+}

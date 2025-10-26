@@ -1,0 +1,18 @@
+{
+  "name": "realpay-proof",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@9.0.0",
+  "workspaces": [
+    "contracts/*",
+    "services/*",
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "pnpm -r --parallel run dev",
+    "build": "pnpm -r run build",
+    "start": "pnpm -r --parallel run start"
+  }
+}
+
+

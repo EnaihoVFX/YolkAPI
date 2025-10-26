@@ -1,0 +1,7 @@
+node_modules
+.next
+out
+dist
+target
+.env
+.DS_Store
